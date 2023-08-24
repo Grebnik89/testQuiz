@@ -1,7 +1,7 @@
 <template>
   <figure>
     <img class="img-school" src="@/img/school.jpg" alt="school">
-    <figcaption>А это я c другом в школе, еле откопал, давно это было</figcaption>
+    <figcaption>А это я с другом в школе, еле откопал, давно это было</figcaption>
   </figure>
 </template>
 
